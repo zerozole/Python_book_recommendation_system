@@ -1,4 +1,4 @@
-This project is based on a book recommendation system. 
+-This project is based on a book recommendation system. 
 
 
 
