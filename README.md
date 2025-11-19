@@ -1,4 +1,4 @@
-**This project is based on a book recommendation system.**
+In this project I create a book recommendation system based on collaborative filtering.
 
 
 
